@@ -25,7 +25,14 @@ pipeline {
                   
                 """
                 }
-            } 
+            }
+           stage('cleaning') {
+            steps {
+            deleteDir()
+            }
+        }
+          
+          
         } 
 
     }
