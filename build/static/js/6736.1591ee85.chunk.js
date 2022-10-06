@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkagrotech_frontend=self.webpackChunkagrotech_frontend||[]).push([[6736],{96736:function(n,e,r){r.r(e),r.d(e,{build:function(){return t.b}});r(43528),r(75047),r(74070),r(27313),r(73852),r(79622),r(21416),r(22407),r(32298),r(97289),r(65908),r(78435),r(89742),r(61879);var t=r(30613)}}]);

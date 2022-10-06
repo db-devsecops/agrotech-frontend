@@ -1,0 +1,2 @@
+/*! For license information please see 5593.b3d6c6f5.chunk.js.LICENSE.txt */
+"use strict";(self.webpackChunkagrotech_frontend=self.webpackChunkagrotech_frontend||[]).push([[5593],{5593:function(n,e,t){t.r(e),t.d(e,{CalciteAction:function(){return c},defineCustomElement:function(){return u}});var r=t(49343),c=r.A,u=r.d}}]);
